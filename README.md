@@ -45,4 +45,3 @@
   <td>6.</td>
   <td>Крем-суп из тыквы</td><td>250</td><td>450</td>
   <tr>
-![ресторан-меню-дизайн-шаблон_482265-243.avif](https://github.com/premium-vector/restaurant-menu-design-template_20006115.htm)
