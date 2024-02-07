@@ -45,4 +45,4 @@
   <td>6.</td>
   <td>Крем-суп из тыквы</td><td>250</td><td>450</td>
   <tr>
-![1](https://github.com/search?q=меню+&tbm=isch&ved=2ahUKEwjchq37x5mEAxUrIRAIHawJCs8Q2-cCegQIABAA&oq=меню+&gs_lp=EgNpbWciCdC80LXQvdGOIDIKEAAYgAQYigUYQzIFEAAYgAQyBRAAGIAEMgoQABiABBiKBRhDMgoQABiABBiKBRhDMggQABiABBixAzIFEAAYgAQyCBAAGIAEGLEDMgUQABiABDIFEAAYgARIwR9QyQZYjxdwAHgAkAEAmAG0A6ABmBOqAQowLjEwLjIuMS4xuAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAgYQABgHGB7CAgYQABgFGB6IBgE&sclient=img&ei=JaTDZZzgFqvCwPAPrJOo-Aw&bih=835&biw=1745#imgrc=NbMwjXc3fNcP3M
+![1](https://github.com/
