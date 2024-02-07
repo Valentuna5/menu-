@@ -45,4 +45,4 @@
   <td>6.</td>
   <td>Крем-суп из тыквы</td><td>250</td><td>450</td>
   <tr>
-
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
